@@ -1,5 +1,9 @@
 # DS-Capstone
-###This is a simple frequency based approach for the Data Science Capstone problem (John Hopkins Data Science Specilization Coursera) 
+### This is a simple frequency based approach for the Data Science Capstone problem (John Hopkins Data Science Specilization Coursera) 
+
+# Link to the working final project (hosted on shinyapps.io)
+## [DS Capstone shinyapps.io link](https://aashay.shinyapps.io/Text_Predictor/)
+
 
 ## What was the DS Capstone problem ?
 ### It was basically a NLP project where the problem was to identify (or guess) the next word based on the word entered by the user.
